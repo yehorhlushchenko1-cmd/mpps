@@ -11,7 +11,7 @@ namespace MPPS
         public static void Main()
         {
             int a = 1, b = 2, c = 3;
-            Console.WriteLine(a + b);
+            Console.WriteLine(a + b + c);
             Console.ReadKey(true);
         }
     }
